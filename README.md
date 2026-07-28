@@ -35,7 +35,7 @@ Desenvolver um dashboard para acompanhamento de indicadores de vendas e análise
 
 ## 📷 Dashboard
 
-![Dashboard de Vendas](imagens/dashboard.png)
+![Dashboard de Vendas](dashboard.png)
 
 ## 👩‍💻 Desenvolvido por
 
