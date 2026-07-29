@@ -1,6 +1,6 @@
 # 📊 Dashboard de Vendas | Power BI
 
-Dashboard interativo desenvolvido para análise de vendas utilizando **Power BI, Excel e DAX**.
+Dashboard interativo desenvolvido para análise de vendas utilizando **Power BI e Excel**.
 
 ## 🎯 Objetivo
 
@@ -10,7 +10,6 @@ Desenvolver um dashboard para acompanhamento de indicadores de vendas e análise
 
 * **Power BI**
 * **Excel**
-* **DAX**
 
 ## 📌 Indicadores (KPIs)
 
